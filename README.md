@@ -10,17 +10,23 @@ The application integrates the Gemini API to process user queries and generate i
 
 The main objective of this project is to develop an interactive AI-powered chatbot that makes communication with artificial intelligence simple and convenient.
 
+## 🌐 Live Project
+
+The AI Chatbot is deployed and available online. Users can access and interact with the application directly through their web browsers.
+
+🚀 **[Try AI Chatbot – Live Demo](https://roboai.tiiny.site/)**
+
 ## 🛠️ Technologies Used
 
-- 🌐 HTML5 – Structure of the chatbot application.
-- 🎨 CSS3 – Styling, layouts, animations, and responsive design.
-- ⚡ JavaScript – Application functionality and DOM manipulation.
-- 🤖 Google Gemini API – AI-powered conversational responses.
-- 🔗 Fetch API – Sending requests and receiving responses from Gemini.
-- 📂 FileReader API – Reading and processing uploaded files.
-- 💾 LocalStorage – Saving the user's theme preference.
-- 🔤 Google Fonts – Typography and visual appearance.
-- 🎯 Material Symbols – Icons for chatbot controls.
+- 🌐 **HTML5** – Structure of the chatbot application.
+- 🎨 **CSS3** – Styling, layouts, animations, and responsive design.
+- ⚡ **JavaScript** – Application functionality and DOM manipulation.
+- 🤖 **Google Gemini API** – AI-powered conversational responses.
+- 🔗 **Fetch API** – Sending requests and receiving responses from Gemini.
+- 📂 **FileReader API** – Reading and processing uploaded files.
+- 💾 **LocalStorage** – Saving the user's theme preference.
+- 🔤 **Google Fonts** – Typography and visual appearance.
+- 🎯 **Material Symbols** – Icons for chatbot controls.
 
 ## ✨ Features
 
@@ -72,19 +78,12 @@ The API returns an AI-generated response, which is displayed dynamically on the 
 AI-Chatbot/
 │
 ├── index.html          # Main HTML structure
-│
 ├── style.css           # Chatbot styling and themes
-│
 ├── script.js           # JavaScript functionality and API integration
-│
 ├── robot.jpg           # Chatbot avatar image
-│
 ├── 1.png               # Chatbot interface screenshot
-│
 ├── 2.png               # Chatbot interaction screenshot
-│
 ├── 3.png               # Light theme screenshot
-│
 └── README.md           # Project documentation
 ```
 
@@ -151,7 +150,7 @@ cd AI-chatbot
 
 ### Step 3: Configure Gemini API
 
-1. Visit Google AI Studio.
+1. Visit [Google AI Studio](https://aistudio.google.com/).
 2. Generate your Gemini API key.
 3. Configure the API key securely for your application.
 4. Ensure that the API endpoint uses a model available to your API account.
@@ -208,5 +207,4 @@ Through this project, I gained practical experience in:
 
 ---
 
-
----
+⭐ If you find this project interesting, consider giving it a star!
